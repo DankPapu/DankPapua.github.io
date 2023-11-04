@@ -1,0 +1,46 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+/* Estilos para secciones */
+h2 {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Estilos para la lista de habilidades */
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para el enlace de referencia */
+p {
+    font-style: italic;
+}
+
+/* Estilos para la dirección de correo electrónico */
+p strong {
+    font-weight: bold;
+}
+
+/* Estilos para los pasatiempos */
+h2 + p {
+    font-weight: bold;
+}
+
+/* Estilos para el texto de la referencia */
+h2 + p + p {
+    font-style: italic;
+    color: #777;
+}
