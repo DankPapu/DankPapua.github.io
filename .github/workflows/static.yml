@@ -11,7 +11,7 @@
     <p><strong>Correo electrónico:</strong> javielo717@gmail.com</p>
 
     <h2>Objetivo</h2>
-    <p>Creecer y aprender sobre las tecnologías de la información y comunicación (TICs).</p>
+    <p>Crecer y aprender sobre las tecnologías de la información y comunicación (TICs).</p>
 
     <h2>Habilidades</h2>
     <ul>
@@ -23,32 +23,23 @@
     </ul>
 
     <h2>Experiencia laboral</h2>
-    <p><strong>Técnico en una papelería</strong><br>
-    Duración: 2 años<br>
-    [Descripción detallada de tus responsabilidades y logros en este trabajo]</p>
+    <p><strong>Técnico en una papelería</strong></p>
+    <p>2 años de experiencia en la parte técnica.</p>
 
     <h2>Educación</h2>
-    <p><strong>Preparatoria [Nombre de la preparatoria]</strong><br>
-    Año de graduación: [Año]</p>
-    <p><strong>Universidad [Nombre de la universidad]</strong><br>
-    Carrera: [Nombre de tu carrera]<br>
-    Año de inicio: [Año actual]</p>
+    <p><strong>Preparatoria [Nombre de la preparatoria]</strong></p>
+    <p>Año de graduación: [5años]</p>
+    <p><strong>Universidad [TecNm]</strong></p>
+    <p>Carrera: [Tics]</p>
+    <p>Año de inicio: [2023]</p>
 
     <h2>Habilidades adicionales</h2>
-    <p>Reparación de dispositivos electrónicos y computadoras</p>
+    <p>Reparación de dispositivos electrónicos y computadoras.</p>
 
     <h2>Pasatiempos</h2>
-    <p>Videojuegos, lectura, pintura</p>
+    <p>Videojuegos, lectura, pintura.</p>
 
     <h2>Referencias</h2>
-    <p>Referencia por parte de Alejandro Sáenz</p>
-
-    <h2>Proyectos</h2>
-    <p><a href="#" id="toggleButton">Mostrar/Ocultar Proyectos</a></p>
-    <div id="hiddenContent" style="display: none;">
-        <!-- Contenido de proyectos que se muestra/oculta -->
-    </div>
-
-    <script src="script.js"></script>
+    <p>Referencia por parte de Alejandro Sáenz.</p>
 </body>
 </html>
