@@ -1,0 +1,23 @@
+name: Saludo a la Maestra
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v2
+
+      - name: Mostrar saludo
+        run: echo "Hola maestra" > saludo.txt
+
+      - name: Subir archivo de saludo
+        uses: actions/upload-artifact@v2
+        with:
+          name: saludo-artifact
+          path: saludo.txt
